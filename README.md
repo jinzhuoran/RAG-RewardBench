@@ -1,3 +1,4 @@
 # RAG-RewardBench
-RAG-RewardBench: Benchmarking Reward Models in\\ Retrieval Augmented Generation for Preference Alignment
+RAG-RewardBench: Benchmarking Reward Models in Retrieval Augmented Generation for Preference Alignment
+
 Data and code is coming soon!
