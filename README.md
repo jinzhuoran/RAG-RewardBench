@@ -1,4 +1,4 @@
 # RAG-RewardBench
 RAG-RewardBench: Benchmarking Reward Models in Retrieval Augmented Generation for Preference Alignment
 
-Data and code is coming soon!
+Our benchmark is now available at [Huggingface](https://huggingface.co/datasets/jinzhuoran/RAG-RewardBench).
